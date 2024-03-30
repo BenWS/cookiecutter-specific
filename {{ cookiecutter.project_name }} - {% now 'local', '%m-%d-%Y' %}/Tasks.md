@@ -1,4 +1,4 @@
-{% if cookiecutter.project_name= "BI Application Design" %} 
+{% if cookiecutter.project_name="BI Application Design" %} 
 
 Test
 
