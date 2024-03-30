@@ -1,5 +1,5 @@
-{% if cookiecutter.project_type == "BI Application Design" %} 
+{% if cookiecutter.project_type == "BI Application Design" -%} 
 
-Test
+{% include 'tasks_bi_application_design.txt' %}
 
-{% endif %}
+{%- endif %}
