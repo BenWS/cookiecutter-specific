@@ -1,0 +1,7 @@
+__Tasks__
+ - [ ] Create high-level dashboard mock-up
+ - [ ] Identify lower-level dashboard design targets
+
+__Context__
+
+Please see <<provide repository URL>>
