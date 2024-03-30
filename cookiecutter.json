@@ -1,5 +1,7 @@
 {
-  "project_name": "Project",
-  "date": "{% now 'local', '%m-%d-%Y' %}",
-  "requester": "Internal"
+  "project_name": "Task",
+  "task_type":
+    [
+    "BI Application Design" 
+    ]
 }
