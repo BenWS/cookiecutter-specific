@@ -3,6 +3,5 @@
   "task_type":
     [
     "BI Application Design" 
-    ],
-  "timestamp": "{{ cookiecutter.timestamp }}"
+    ]
 }
