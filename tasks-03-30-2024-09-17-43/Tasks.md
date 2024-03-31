@@ -1,8 +1,8 @@
 __Tasks__
- - [ ] Create high-level positional mock-up
- - [ ] Identify lower-level dashboard design targets
+ - [ ] Create macro-level positional mock-up
+ - [ ] Identify micro-level dashboard design targets
    - Design targets are a combination of the 'design variables' listed below
- - [ ] Create lower-level design
+ - [ ] Create micro-level design mock-ups
    - [ ] For each design target 
 
 ---
@@ -18,7 +18,9 @@ Low-level design is a combination of these variables:
 
  - Aesthetics 
    - Font
+   - Shape
    - Element Color
    - Background Color
+   - Layout
  - User Interaction
    - Drill-down (either receiving or directing)
