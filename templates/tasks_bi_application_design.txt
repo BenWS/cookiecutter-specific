@@ -1,18 +1,24 @@
+# Resources
+
+ - Wireframe URL: ++Provide++
+
+# Tasks
+
 __Tasks__
  - [ ] Create macro-level positional mock-up
  - [ ] Identify micro-level dashboard design targets
    - Design targets are a combination of the 'design variables' listed below
+	 - Design targets should be output below
  - [ ] Create micro-level design mock-ups
-   - [ ] For each design target 
+   - [ ] For each design target provide design alterations
 
 ---
 
-__Context__
+## Context
 
 Please see `<<provide repository URL>>` for full context.
 
----
-__Context > Design Variables__
+## Context
 
 Low-level design is a combination of these variables:
 
@@ -24,3 +30,22 @@ Low-level design is a combination of these variables:
    - Layout
  - User Interaction
    - Drill-down (either receiving or directing)
+
+# Design Targets
+
+List of targets:
+	- Target 1
+	- Target 2
+	- Target 3
+	- ...
+
+## (Template) ++Design Target 1++
+
+
+- Design URL: ++Provide++
+- Design Goal: ++One or two bullets++
+
+Designs (Bulleted List):
+	- Design 1 (brief description)
+	- Design 2 (brief description)
+	- Design 3 (brief description)
